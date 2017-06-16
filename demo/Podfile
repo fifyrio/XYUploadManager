@@ -1,0 +1,8 @@
+platform :ios, '7.0' #手机的系统
+
+target 'tableView' do
+    pod 'AliyunOSSiOS'
+    pod 'AFNetworking'
+    pod 'FMAssetStream'
+    pod 'JDStatusBarNotification'
+end
